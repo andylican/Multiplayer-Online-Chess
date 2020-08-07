@@ -1,4 +1,3 @@
-### Chess ISU
 
 # Sprite Paths
 
